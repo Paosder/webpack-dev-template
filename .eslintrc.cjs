@@ -15,6 +15,7 @@ module.exports = {
     "dist",
     "*.config.js",
     "*.config.cjs",
+    "*.config.mjs",
     "setup.js",
   ],
 };
