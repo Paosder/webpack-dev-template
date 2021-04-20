@@ -36,6 +36,8 @@ module.exports = {
     ],
     "import/no-unresolved": "off",
     "import/prefer-default-export": "off",
+    "max-classes-per-file": "off",
+    "no-param-reassign": "off",
   },
   ignorePatterns: [
     "node_modules",
