@@ -38,7 +38,7 @@
     "prettier": "^2.2.1",
     "rimraf": "^3.0.2",
     "tree-kill": "^1.2.2",
-    "ts-loader": "^9.1.1",
+    "ts-loader": "^9.1.2",
     "typescript": "^4.2.4",
     "webpack": "^5.36.2",
     "webpack-cli": "^4.7.0",
